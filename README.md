@@ -16,12 +16,12 @@ Automatic web browser login service
 
 ### Technology Stack
 
-Back-end: 
+Back-end: Spring 4.x
 
 Front-end: Vue.js, Vuetify, Electron
 
-Android: 
+Android: Android Studio
 
-Database: MariaDB 10.4 
+Database: AWS RDS(MariaDB 10.2)
 
-AWS: EC2
+Server: AWS EC2, Apach2, Tomcat8
