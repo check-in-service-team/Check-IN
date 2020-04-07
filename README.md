@@ -18,7 +18,7 @@ Automatic web browser login service
 
 Back-end: Spring 4.x, Apache2, Tomcat8, Open SSL
 
-Front-end: Node.js 12.16, Vue.js 4.2, Vuetify 2.2, Electron 6.0
+Front-end: Node.js 12.16, Vue.js 2.6, Vuetify 2.2, Electron 6.0
 
 Android: Android Studio
 
